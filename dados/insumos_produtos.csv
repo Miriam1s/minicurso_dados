@@ -1,0 +1,28 @@
+produto,insumo,quantidade_insumo,unidade,valor_unitario
+Hamburguer,Pão,1,unidade,1.20
+Hamburguer,Carne,1,unidade,3.50
+Hamburguer,Queijo,1,fatia,0.80
+Hamburguer,Alface,1,folha,0.30
+Hamburguer,Tomate,1,fatia,0.25
+Refrigerante,Refrigerante,1,lata,2.50
+Batata Frita,Batata,150,gramas,2.00
+Batata Frita,Óleo,50,ml,0.50
+Suco,Fruta,1,unidade,1.50
+Suco,Água,200,ml,0.10
+Suco,Açúcar,10,gramas,0.05
+Salada,Alface,3,folhas,0.90
+Salada,Tomate,2,fatia,0.50
+Salada,Cenoura,30,gramas,0.40
+Pizza,Massa,1,unidade,2.00
+Pizza,Queijo,3,fatia,2.40
+Pizza,Tomate,2,fatia,0.50
+Pizza,Presunto,2,fatia,1.20
+Café,Café,10,gramas,0.30
+Café,Água,50,ml,0.05
+Torta,Massa,1,unidade,1.50
+Torta,Recheio,1,porção,2.00
+Sanduíche,Pão,2,unidade,2.40
+Sanduíche,Presunto,1,fatia,0.60
+Sanduíche,Queijo,1,fatia,0.80
+Sorvete,Sorvete,1,bola,2.00
+Sorvete,Cobertura,1,porção,0.50
