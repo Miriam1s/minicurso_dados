@@ -3,6 +3,11 @@ Bem-vindo(a) ao repositório oficial do minicurso de Análise de Dados!
 
 Este espaço centraliza todo o material didático, dados, códigos e informações relevantes para o nosso encontro prático de 4 horas.
 
+# Sobre o Minicurso
+
+
+Neste minicurso prático de 4 horas, vamos explorar técnicas fundamentais de manipulação e análise de dados utilizando a linguagem Python e a ferramenta Google Colab. O foco é capacitar futuros administradores, contadores e gestores a extrair insights valiosos de dados empresariais do dia a dia, como planilhas de vendas, cadastros de clientes e relatórios financeiros.
+
 ## Objetivo
 Capacitar os participantes a realizar um ciclo completo de análise de dados, desde a coleta até a apresentação de insights, usando ferramentas acessíveis como Google Sheets, Excel, Google Data Studio (Looker Studio) e Python/Google Colab.
 

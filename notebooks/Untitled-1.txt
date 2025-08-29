@@ -1,0 +1,3 @@
+insumos = pd.read_csv('../dados/insumos_produtos.csv')
+insumos_agrupados = insumos.groupby('insumo')['quantidade_insumo'].sum().sort_values(ascending=False)
+# ...visualização do gráfico...
